@@ -1,5 +1,6 @@
 date
 ls
-docker ps
+id
+sudo docker ps
 cal
 echo "from github final by lalit yadav"
