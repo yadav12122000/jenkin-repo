@@ -1,3 +1,3 @@
 date
 cal
-echo "from github file last final by lalit rao yadav"
+echo "from github final by lalit yadav"
